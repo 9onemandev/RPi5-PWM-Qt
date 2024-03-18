@@ -16,6 +16,8 @@ Here is used hardware:
 - RPi 5
 - Rpi camer module v3
 - 2-DOF Pan-Tilt HAT
+
+
 ![msg-4123678493-350298](https://github.com/9onemandev/RPi5-PWM-Qt/assets/163633812/70886b13-eb85-4d9b-a325-b36296650ac0)
 
 Pay attention to parameters:
