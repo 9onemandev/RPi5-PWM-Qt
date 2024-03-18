@@ -23,11 +23,17 @@ Here is used hardware:
 Pay attention to parameters:
 
 #define PNS 20000000       // period in ns
+
 #define LRS 1450000        // left-right servo mid position
+
 #define TBS 2300000        // top-bot servo mid position
+
 #define LRMIN 450000       // left-right min position
+
 #define LRMAX 2500000      // left-right max pos
+
 #define TBMIN 1360000      // top-bot servo min position
+
 #define TBMAX 2660000      // top-bot servo max position
 
 and rotation directions in keypress event method. They may vary for your case. Code written for camera mounted on ceiling (not staying on the table).
